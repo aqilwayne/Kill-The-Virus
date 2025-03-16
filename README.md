@@ -1,8 +1,7 @@
 # Kill-The-Virus
-by Dopamine Company
+by Dopamine Company (Dummy project)
 
 Group Member :
-
 1. Habibullah Aqil Dika Putra
 2. Muhammad Rayhan
 3. Hashemi Rafsanjani

@@ -1,4 +1,4 @@
-# Kill-The-Virus
+# Kill The Virus : Scroll Shooter Game
 by Dopamine Company (Dummy project)
 
 Group Member :
